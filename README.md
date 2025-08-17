@@ -17,7 +17,7 @@
 
 | ![Commits KDEPlot](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ian-Lusule&theme=dark) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ian-Lusule&theme=merko&hide_border=true&show_icons=true)](https://github.com/Ian-Lusule) |
 |---|---|
-| [![GitHub Streak](https://streak-stats.demolab.com?user=Ian-Lusule&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) | [![Top Languages By Commits](https://github-readme-stats.vercel.app/api/top-langs/?username=Ian-Lusule&theme=dark&hide_border=true&layout=compact)](https://github.com/Ian-Lusule/github-readme-stats) |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=Ian-Lusule&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) | [![Top Languages By Commits](https://github-readme-stats.vercel.app/api/top-langs/?username=Ian-Lusule&theme=dark&hide_border=true&layout=compact)](https://github.com/Ian-Lusule/) |
 
 
 
