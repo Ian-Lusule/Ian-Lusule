@@ -15,7 +15,7 @@
 
 ### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHY3NTR2eTY3MXJ3eWFqYm5zYnRzeWw2czhtY3BrdXpuNm5nZHBxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WcYnTzdrjQphdu33xs/giphy.gif" width="50"> GitHub Stats:
 
-| ![Commits KDEPlot](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ian-Lusule&theme=dark) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ian-Lusule&theme=dark&hide_border=true&show_icons=true)](https://github.com/Ian-Lusule/github-readme-stats) |
+| ![Commits KDEPlot](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ian-Lusule&theme=dark) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ian-Lusule&theme=dark&hide_border=true&show_icons=true)](https://github.com/Ian-Lusule) |
 |---|---|
 | [![GitHub Streak](https://streak-stats.demolab.com?user=Ian-Lusule&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) | [![Top Languages By Commits](https://github-readme-stats.vercel.app/api/top-langs/?username=Ian-Lusule&theme=dark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 
