@@ -9,29 +9,39 @@
 ---
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-<!--!
-[Ian-Lusule github-trophies](https://stats.hyochan.dev/api/github-trophies?login=Ian-Lusule)
 
-![Ian Lusule's Kaggle Stats](https://kaggle-card.chienhsiang-hung.eu.org/api/svg?IanLusule)
--->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ian-Lusule&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
-![Commits KDEPlot](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ian-Lusule&theme=github_dark)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ian-Lusule)](https://github.com/Ian-Lusule/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ian-Lusule&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![Top Languages By Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ian-Lusule&theme=github_dark)
-![Top Languages By Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ian-Lusule&theme=github_dark)
+### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHY3NTR2eTY3MXJ3eWFqYm5zYnRzeWw2czhtY3BrdXpuNm5nZHBxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WcYnTzdrjQphdu33xs/giphy.gif" width="50"> GitHub Stats:
 
+| ![Commits KDEPlot](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ian-Lusule&theme=dark) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ian-Lusule&theme=dark&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) |
+|---|---|
+| [![GitHub Streak](https://streak-stats.demolab.com?user=Ian-Lusule&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) | [![Top Languages By Commits](https://github-readme-stats.vercel.app/api/top-langs/?username=Ian-Lusule&theme=dark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+
+
+
+<!--# 📊 GitHub Stats:
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ian-Lusule&theme=dark&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api?username=Ian-Lusule&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ian-Lusule&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+-->
 ---
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/IanLusule">
-<img src="https://static.vecteezy.com/system/resources/previews/017/339/624/original/linkedin-icon-free-png.png" alt="LinkedIn Profile" width="75"></a>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxxMjhvMTUyeXhld2pvcHlvam81cmducGpteTg4ZmVpdnQ4c3czcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/K0ulLw0UJ0ozhiiPrV/giphy.gif" alt="LinkedIn Profile" width="60">
+</a>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dTd2NmhkNmwzZm5la2UyejR5ZGFzdWJjd3R2YWMxNDU0d2JkM295biZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/kgMHNZIBwPWYqix39P/giphy.gif" width="60"> 
+
+<em><b>I love connecting with people</b>, so if you want to say <b>hi</b>, I’ll be happy to meet you!</em>
+
+</div>
 
 ---
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-<em><b>I love connecting with people</b>, so if you want to say <b>hi</b>, I’ll be happy to meet you!</em>
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Bottom Banner" />
