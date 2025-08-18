@@ -8,12 +8,12 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZsOXljNTQybGtsN2dic3o5b2JuMmE4c3k4bHp2NTZ4bTUybXE3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NOqIakjH3m58oUDjwT/giphy.gif" width="70"> A little more about me...<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB0bDN0Z2VmcnZhZG9jY2ZyZmF1NHFsZ2t5ZzlvaGlidXdkbXU5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SYNazVYUqpCxY1HLHf/giphy.gif" width="80">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ian-Lusule&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 
-### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJubm0xcjNwa29vYjI5eGZnNGZ5cjQ2aHEwemI0cWllc2syem5xdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RcZ5VktZE7RgdDLE2P/giphy.gif" width="50"> GitHub Stats:
+### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHY3NTR2eTY3MXJ3eWFqYm5zYnRzeWw2czhtY3BrdXpuNm5nZHBxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WcYnTzdrjQphdu33xs/giphy.gif" width="50"> GitHub Stats:
 
 | ![Commits KDEPlot](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ian-Lusule&theme=dark) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ian-Lusule&theme=merko&hide_border=true&show_icons=true)](https://github.com/Ian-Lusule) |
 |---|---|
