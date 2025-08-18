@@ -20,13 +20,6 @@
 | [![GitHub Streak](https://streak-stats.demolab.com?user=Ian-Lusule&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) | [![Top Languages By Commits](https://github-readme-stats.vercel.app/api/top-langs/?username=Ian-Lusule&theme=dark&hide_border=true&layout=compact)](https://github.com/Ian-Lusule/) |
 
 
-
-<!--# 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ian-Lusule&theme=dark&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api?username=Ian-Lusule&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ian-Lusule&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
--->
 ---
 
 <div align="center">
@@ -37,7 +30,7 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dTd2NmhkNmwzZm5la2UyejR5ZGFzdWJjd3R2YWMxNDU0d2JkM295biZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/kgMHNZIBwPWYqix39P/giphy.gif" width="60"> 
 
-<em><b>I love connecting with people</b>, so if you want to say <b>hi</b>, I’ll be happy to meet you!</em>
+<em><b>I love connecting with people</b>, if you want to say <b>hi</b>, I’ll be happy to <b>hi!</b> u2</em>
 
 </div>
 
