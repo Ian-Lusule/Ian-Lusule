@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m **Ian Lusule**
 - 👀 I’m interested in **Web Security** / **Machine Learning**
-- 🌱 I’m currently learning **building a fraud detector app using Sentiment Analysis**
+- 🌱 I’m currently **building a fraud detector app using Sentiment Analysis**
 - 💞️ I’m looking to collaborate on **GitHub**
 - 📫 Reach me via email at **info@lusule.com** or on **[Kaggle](https://www.kaggle.com/ianlus)**
 
